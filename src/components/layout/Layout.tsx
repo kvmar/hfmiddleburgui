@@ -32,10 +32,17 @@ function Logo() {
         size="lg"
         fw={300}
         pl={8}
-
       >
-        HF Middleburg Salon
+        HF Middleburg
       </Text>
+      <Text
+        size="sm"
+        fw={300}
+        pl={8}
+      >
+        an Aveda salon
+      </Text>
+
     </div>
   );
 }
@@ -131,6 +138,7 @@ export default function Layout() {
           backgroundColor: "#FAF9F6",
         }}
       >
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/services" element={<Services />} />
