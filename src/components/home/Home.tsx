@@ -20,7 +20,7 @@ function Slide() {
       h={200}
       w="auto"
       fit="contain"
-      src="https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-9.png"
+      src="https://github.com/novayammygang/hfmiddleburgui/blob/main/src/assets/slides/slide1.jpg?raw=true"
     /></Carousel.Slide>
     <Carousel.Slide>2</Carousel.Slide>
     <Carousel.Slide>3</Carousel.Slide>
