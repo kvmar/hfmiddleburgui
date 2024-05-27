@@ -63,7 +63,6 @@ export default function Home() {
       <Space h="xl" />
       <Space h="xl" />
       <Container size="sm">
-        {" "}
         <>
           <Text size="md" fw={300}>
             Through our partnership with AVEDA, we want to inspire and educate

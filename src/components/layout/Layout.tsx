@@ -138,7 +138,6 @@ export default function Layout() {
           backgroundColor: "#FAF9F6",
         }}
       >
-
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/services" element={<Services />} />
